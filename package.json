@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "webpack-dev-server"
+  },
+  "dependencies": {
+    "vue-loader": "^11.1.4",
+    "vue-markdown-loader": "^0.6.2",
+    "vue-template-compiler": "^2.2.4",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.2"
+  }
+}
